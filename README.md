@@ -21,5 +21,7 @@ import time
 import os
 import HandTrackingModule as htm
 
+->Once installation of codes subsequnently, run the codes. 
+
 
 
